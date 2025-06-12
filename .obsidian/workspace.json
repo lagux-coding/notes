@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦉Coding/✏️Language and Framework/📱Flutter/Orb.md",
+                "file": "🦉Coding/🖥️Domain/Networking and Protocols/Networking and Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orb"
+              "title": "Networking and Protocols"
             }
           }
         ]
@@ -183,11 +183,16 @@
   },
   "active": "f4c6d91246fcff63",
   "lastOpenFiles": [
+    "🦉Coding/🖥️Domain/Networking and Protocols/DNS.md",
+    "Networking.md",
+    "[[.md",
+    "🦉Coding/🖥️Domain/Networking and Protocols/Networking and Protocols.md",
+    "🦉Coding/🖥️Domain/Networking and Protocols",
     "🦉Coding/🖥️Domain/Frontend.md",
+    "Templates/🦉Coding Concept Template.md",
     "🦉Coding/✏️Language and Framework/📱Flutter/Orb.md",
     "Flutter.md",
     "🦉Coding/✏️Language and Framework",
-    "Templates/🦉Coding Concept Template.md",
     "🦉Coding/🖥️Domain",
     "Frontend.md",
     "🦉Coding/✏️Language and Framework/📱Flutter",
@@ -212,7 +217,6 @@
     "test/Untitled.md",
     "test/Testing.md",
     "test",
-    "Templates",
     "s3/S3.md",
     "2025-02-15.md"
   ]
