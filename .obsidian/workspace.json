@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦉Coding/✏️Language and Framework/📱Flutter/🔮Orb.md",
+                "file": "🦉Coding/✏️Language and Framework/📱Flutter/Orb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔮Orb"
+              "title": "Orb"
             }
           }
         ]
@@ -183,9 +183,9 @@
   },
   "active": "f4c6d91246fcff63",
   "lastOpenFiles": [
-    "Flutter.md",
-    "🦉Coding/✏️Language and Framework/📱Flutter/🔮Orb.md",
     "🦉Coding/🖥️Domain/Frontend.md",
+    "🦉Coding/✏️Language and Framework/📱Flutter/Orb.md",
+    "Flutter.md",
     "🦉Coding/✏️Language and Framework",
     "Templates/🦉Coding Concept Template.md",
     "🦉Coding/🖥️Domain",
