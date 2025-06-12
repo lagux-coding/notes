@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🌳Permenant Note Template.md",
+                "file": "Plugins/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌳Permenant Note Template"
+              "title": "Git"
             }
           }
         ]
@@ -181,14 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63daf55e1487f30e",
+  "active": "f4c6d91246fcff63",
   "lastOpenFiles": [
+    "Templates/🌳Permenant Note Template.md",
+    "Plugins/Git.md",
     "Plugins/File Explorer Notes Count.md",
     "Plugins/Folder Notes.md",
     "Plugins/Omnisearch.md",
     "Plugins/Templater.md",
     "Untitled.md",
-    "Templates/🌳Permenant Note Template.md",
     "Plugins/test.md",
     "etst/Untitled.md",
     "etst",
