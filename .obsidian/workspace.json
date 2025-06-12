@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🦉Coding Concept Template.md",
+                "file": "🦉Coding/✏️Language and Framework/📱Flutter/🔮Orb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🦉Coding Concept Template"
+              "title": "🔮Orb"
             }
           }
         ]
@@ -181,10 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63daf55e1487f30e",
+  "active": "f4c6d91246fcff63",
   "lastOpenFiles": [
-    "Plugins/Git.md",
+    "Flutter.md",
+    "🦉Coding/✏️Language and Framework/📱Flutter/🔮Orb.md",
+    "🦉Coding/🖥️Domain/Frontend.md",
+    "🦉Coding/✏️Language and Framework",
     "Templates/🦉Coding Concept Template.md",
+    "🦉Coding/🖥️Domain",
+    "Frontend.md",
+    "🦉Coding/✏️Language and Framework/📱Flutter",
+    "Plugins/Git.md",
     "🦉Coding/Untitled.md",
     "🦉Coding",
     "Templates/🌳Permenant Note Template.md",
@@ -207,8 +214,6 @@
     "test",
     "Templates",
     "s3/S3.md",
-    "Untitled 1",
-    "2025-02-15.md",
-    "s3"
+    "2025-02-15.md"
   ]
 }

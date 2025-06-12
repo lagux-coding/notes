@@ -1,9 +1,9 @@
-# <% tp.file.title %>
+# Flutter
 ---
 Origin:
 References:
-Tags: #🗃/🌻 #coding/concept #tech/[[<Specific_Domain>]] #lang/[[<Language/Framework>]]
-Created: <% tp.date.now("YYYY-MM-DD") %>
+Tags: #🗃/🌻 #coding/concept #tech/[[Frontend]] #lang/Flutter
+Created: 2025-06-12
 
 ---
 > [!summary] Summary or Brief Definition

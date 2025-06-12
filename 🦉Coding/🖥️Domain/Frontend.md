@@ -1,9 +1,9 @@
-# <% tp.file.title %>
+# Untitled
 ---
 Origin:
 References:
 Tags: #🗃/🌻 #coding/concept #tech/[[<Specific_Domain>]] #lang/[[<Language/Framework>]]
-Created: <% tp.date.now("YYYY-MM-DD") %>
+Created: 2025-06-12
 
 ---
 > [!summary] Summary or Brief Definition
